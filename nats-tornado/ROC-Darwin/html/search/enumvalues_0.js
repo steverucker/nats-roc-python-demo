@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['roc_5fage',['ROC_AGE',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aacdffb53ddb508920556bc4f5d2e12020',1,'roc.h']]],
+  ['roc_5fbgr24',['ROC_BGR24',['../group__media__decoding.html#gga5ebaa0df70e5232a4a53b2ce55586b35a58592bdfb3b7a23d9cd2415d545e6c3b',1,'roc.h']]],
+  ['roc_5ffr',['ROC_FR',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aaf197918f5273b69a8f29fb75f18d7586',1,'roc.h']]],
+  ['roc_5ffrontal',['ROC_FRONTAL',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aabfae75b262681b48812700295fe87b8b',1,'roc.h']]],
+  ['roc_5ffull',['ROC_FULL',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aa8ce4c83b73e87e1c818c502fec9e8e00',1,'roc.h']]],
+  ['roc_5fgender',['ROC_GENDER',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aa6d704837f6f475eff63fea4d1533f462',1,'roc.h']]],
+  ['roc_5fgray8',['ROC_GRAY8',['../group__media__decoding.html#gga5ebaa0df70e5232a4a53b2ce55586b35a5ca36512726e656e4096b42050786fb4',1,'roc.h']]],
+  ['roc_5fid',['ROC_ID',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aaca1a2b1606ebcfb5a0499723bd0c137f',1,'roc.h']]],
+  ['roc_5finvalid',['ROC_INVALID',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aadb4ae21de578c370d01d845b77c74c05',1,'roc.h']]],
+  ['roc_5flips',['ROC_LIPS',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aab526fb2423af12629c1b7bf5343b4102',1,'roc.h']]],
+  ['roc_5fmanual',['ROC_MANUAL',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aa71e38ae9892dfb94c2647cdfc99de7ed',1,'roc.h']]],
+  ['roc_5focclusion',['ROC_OCCLUSION',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aad4946e05b24734fa9949b81f4b023b48',1,'roc.h']]],
+  ['roc_5fpartial',['ROC_PARTIAL',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aa7ee670c0d340cacbe3f72f0224a9c1a6',1,'roc.h']]],
+  ['roc_5fpitchyaw',['ROC_PITCHYAW',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aa9ec0d523707a2939ec84406e4bedaa8b',1,'roc.h']]],
+  ['roc_5ftemplate_5fversion',['ROC_TEMPLATE_VERSION',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aa84ead5119d2d84cb4cc66a101ff1b1f0',1,'roc.h']]],
+  ['roc_5ftemplate_5fversion_5fmask',['ROC_TEMPLATE_VERSION_MASK',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aa767a46240bdc94431828eaed80ddd013',1,'roc.h']]],
+  ['roc_5fthumbnail',['ROC_THUMBNAIL',['../group__template__generation.html#gga41aa0ed23d103b43850128951e1ea29aaef28094ae47743e13f7e20212871672f',1,'roc.h']]]
+];

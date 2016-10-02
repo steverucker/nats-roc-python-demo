@@ -1,0 +1,24 @@
+{
+  "vendor": "Rank One Computing",
+  "license": {
+    "product": "ROC SDK",
+    "version": "1.11",
+    "expiry": "2016-12-31",
+    "hostid": [
+      "ea67b11ec16b16563cb3e7e2d2966b6379b00bf0358eea87f58105acbd54d043",
+      "0312f6c32f0ecb5230f546fbd6b885b3a94dd6a76f348f8ca6dcaa7bc95f58c4",
+      "b4a73b1f811d101a2dd178ac9ce535cd048a631363eccbec9fa8db52f7aa1d98",
+      "159d261c53d975f4fa820dbfa57fc0dbb4d22328f808067efc76f05e56dab468",
+      "0a5afb143195b9a81910db69353aad7811f2ceae47249dea2ff093ced009554d",
+      "939a7221b844ec46d25d9c22bd940cdd3ae545fa2cb7272803dcb59e66547419",
+      "04606f93c5e61db295b2bbc3eb248fbf5105186fb866042e5938216cddb9e0be",
+      "744d8bb15129b2ac4602bcc6b919f745abbe07cd252ff4ade013225d4c89c30e",
+      "eeed58272e13530e91fcd999dc2cab242442b5c502531c3ff6c4b25e2aeaafa6"
+    ],
+    "salt": "765d46efa8cf8e1562c6b0bdf07ab76551d0dc3fea9c497dcd37c8cdcce635ae",
+    "os": "Mac OS",
+    "customer": "Kairos:steve@kairos.com",
+    "userdata": "50000000",
+    "signature": "3041021e116083a362fdaaffa3ea5ff0934fa282d9742ac3775644e148e36b99ce0d021f0090030844d9caef339643c113701d8ea159d578f98a79b6f7f34ae99d506c"
+  }
+}
